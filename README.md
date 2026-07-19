@@ -1,6 +1,6 @@
-# profile_lab
+# profile_lab (improved)
 
-A new Flutter project.
+A Flutter project based on the previous Lab 2.
 
 ## Getting Started
 
